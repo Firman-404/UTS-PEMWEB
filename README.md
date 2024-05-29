@@ -30,7 +30,7 @@ Docker compose setup untuk menjalankan aplikasi Laravel.
     ```
 7. Setting Database
     ```
-    cp .env.example .env
+    mv .env.example .env
     ```
     ```
     nano .env
